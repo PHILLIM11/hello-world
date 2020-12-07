@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+hello this is for a homework assignment.
